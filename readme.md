@@ -28,7 +28,7 @@ By doing this we are addressing 2 key challenges for public health and local gov
 - Get ahead of the lagged delay of dengue reporting by using real-time information (e.g. climate, searches) to infer if dengue cases and deaths are about to spike.
 - Precisely anticipate areas that may be affected by dengue to prioritize health aid, supplies, and proactive fumigation to prevent the outbreaks.
 
-Local Dependency Setup
+## Local Dependency Setup
 
 ### Dependencies:
 
@@ -46,7 +46,9 @@ Local Dependency Setup
 - QGIS 3.6 or later
     - SCP plugin
 
-# Documentation
+## Local Repository Setup
+
+## Documentation
 
 ---
 
