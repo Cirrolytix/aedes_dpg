@@ -79,11 +79,11 @@ By doing this we are addressing 2 key challenges for public health and local gov
 
 Project AEDES uses the following open licenses:
 
-[MIT License](https://www.notion.so/MIT-License-3c4e77c9f7e54860a077633465f12a4d)
+[MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md
 
 - Open AI Model
 
-[Creative Commons Attribution Share Alike 4.0 International](https://www.notion.so/Creative-Commons-Attribution-Share-Alike-4-0-International-7fef044330a44711a76dcb61d15c78ce)
+[Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
 
 - Open Content
 - Open Data
