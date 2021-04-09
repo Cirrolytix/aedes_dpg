@@ -79,7 +79,7 @@ By doing this we are addressing 2 key challenges for public health and local gov
 
 Project AEDES uses the following open licenses:
 
-[MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md
+[MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md)
 
 - Open AI Model
 
