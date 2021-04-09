@@ -1,0 +1,78 @@
+
+		<section>
+			<div class="w3-row">
+				<div class="w3-col l6">
+					<div style="padding: 5px;">					
+						<select class="w3-select w3-dark-grey" id="locationSelected" onchange="goLocation(this.value);" style="width: 100%;">
+							<option value=''>Select Location:</option>
+							<option value=0>Quezon City (NCR)</option>
+							<option value=1>Tacloban City (Eastern Visayas)</option>
+							<option value=2>Iloilo City (Western Visayas)</option>
+							<option value=3>Cotabato City (ARMM)</option>
+						</select>	
+					</div>
+
+					<div class="w3-row" style="padding: 5px;">
+						<div id="searchContainer" class="chart-container ambient w3-padding" style="height: 250px;"></div>
+					</div>
+
+					<div class="w3-half" style="padding: 5px;">					
+						<select class="w3-select w3-dark-grey" id="series1" onchange="getCharts();" style="width: 100%;">
+							<option value="Cases">Actual Cases</option>
+							<option value="Model1">Model 1</option>
+							<option value="Model2">Model 2</option>
+							<option value="Model3">Model 3</option>
+						</select>	
+					</div>
+					<div class="w3-half" style="padding: 5px;">
+						<select class="w3-quarter w3-select w3-dark-grey" id="series2" onchange="getCharts();" style="width: 100%;">
+							<option value="Model1">Model 1</option>
+							<option value="Model2">Model 2</option>
+							<option value="Model3">Model 3</option>
+						</select>
+					</div>
+					
+					<div class="w3-row" style="padding: 5px;">
+						<div id="chartContainer" class="chart-container ambient w3-padding" style="height: 250px;"></div>
+					</div>
+				</div>
+				<div class="w3-col l6">
+				
+					<div class="w3-half" style="padding: 5px; display: none;">
+						<select class="w3-quarter w3-select w3-dark-grey" id="dateSelected" onchange="" style="width: 100%;">
+							<option value="">Select Period:</option>
+							<option value="Apr-19">Apr-19</option>
+							<option value="May-19">May-19</option>
+							<option value="Jun-19">Jun-19</option>
+							<option value="Jul-19">Jul-19</option>
+						</select>
+					</div>
+					<div class="w3-row" style="padding: 5px;">
+						<select class="w3-quarter w3-select w3-dark-grey" id="mapStyle" onchange="setStyle();" style="width: 100%;">
+							<option value="mapbox://styles/mapbox/dark-v9">Dark</option>
+							<option value="mapbox://styles/mapbox/outdoors-v9">Outdoors</option>
+							<option value="mapbox://styles/mapbox/streets-v9">Streets</option>
+							<option value="mapbox://styles/mapbox/satellite-v9">Satellite</option>
+							<option value="mapbox://styles/mapbox/satellite-streets-v10">Satellite With Streets</option>
+						</select>
+					</div>
+					<div style="display: none;">
+						<div class="w3-third" style="padding: 5px;"><div class="w3-left-align" style="width: 100%;">Cases</div></div>
+						<div class="w3-third" style="padding: 5px;"><div class="w3-left-align" style="width: 100%;">Forecast</div></div>
+						<div class="w3-third" style="padding: 5px;"><div class="w3-left-align" style="width: 100%;">Deaths</div></div>
+						<div class="w3-third" style="padding: 5px;"><div class="w3-left-align" style="width: 100%;">Searches</div></div>
+						<div class="w3-third" style="padding: 5px;"><div class="w3-left-align" style="width: 100%;">Rainfall</div></div>
+						<div class="w3-third" style="padding: 5px;"><div class="w3-left-align" style="width: 100%;">Temperature</div></div>
+					</div>
+					<div class="w3-row" style="padding: 5px;">
+						<div class="w3-white" id='map' style='height: 555px;'></div>
+						<div id='marker1'></div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<script src="forecast/Chart.bundle.js"></script>
+		<script src='maps/mapbox-gl.js'></script>
+		<link href='maps/mapbox-gl.css' rel='stylesheet' />
+		<script src="resources/app_js.js"></script> 
