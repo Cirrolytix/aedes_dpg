@@ -1,5 +1,21 @@
 # Project AEDES DPG Repository
 
+## Local Dependency Set up
+**Required**
+1. Install dependencies from requirements.txt
+2. Browse `/datasets/Consolidated_regions.xlsx` to read or update cases, deaths, google trends, weather, and region data.
+3. Run `denguemodel.py` under `/code` to produce the forecast data.
+4. Run `selectdata.py` under `/code` to read data from the SQLite Database.
+5. To export data, run `exporttocsv.py`.
+
+### Deploy AEDES Portal
+1. Download PHP7.
+2. Copy `/site` to `htdocs` folder.
+3. Browse `localhost/site/index.php` to locally deploy AEDES Portal.
+
+
+
+
 ## What is Project AEDES?
 
 Advanced Early Dengue Prediction and Exploration Service (AEDES) aims to improve public health response against dengue in the Philippines by predicting dengue cases from climate and digital data and pinpointing possible hotspots from satellite data.
