@@ -54,11 +54,11 @@ To better understand the process workflow of Project AEDES, please read our [Doc
 [Functional Documentation](https://github.com/Cirrolytix/aedes_dpg/wiki/Functional-Documentation) 
 
 
-# Awards
+## Awards
 Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/aedes-project/project)  
 2020 Earth Observation for the Sustainable Development Goals (GEO SDG) Award, [Group on Earth Observations](https://www.earthobservations.org/geo_blog_obs.php?id=472)
 
-# Licenses
+## Licenses
 
 Project AEDES uses the following open licenses:
 
@@ -66,7 +66,7 @@ Project AEDES uses the following open licenses:
 - [Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
 
 
-# About
+## About
 
 Project AEDES is in active development and continously maintained by Cirrolytix Research Services.  
 
