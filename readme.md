@@ -55,15 +55,14 @@ To better understand the process workflow of Project AEDES, please read our [Doc
 
 
 # Awards
--  Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/aedes-project/project)
--  2020 Earth Observation for the Sustainable Development Goals (GEO SDG) Award, [Group on Earth Observations](https://www.earthobservations.org/geo_blog_obs.php?id=472)
+Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/aedes-project/project)  
+2020 Earth Observation for the Sustainable Development Goals (GEO SDG) Award, [Group on Earth Observations](https://www.earthobservations.org/geo_blog_obs.php?id=472)
 
 # Licenses
 
 Project AEDES uses the following open licenses:
 
-[MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md)
-
+[MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md)  
 [Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
 
 
