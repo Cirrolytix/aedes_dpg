@@ -1,21 +1,5 @@
 # Project AEDES DPG Repository
 
-## Local Dependency Set up
-**Required**
-1. Install dependencies from requirements.txt
-2. Browse `/datasets/Consolidated_regions.xlsx` to read or update cases, deaths, google trends, weather, and region data.
-3. Run `denguemodel.py` under `/code` to produce the forecast data.
-4. Run `selectdata.py` under `/code` to read data from the SQLite Database.
-5. To export data, run `exporttocsv.py`.
-
-### Deploy AEDES Portal
-1. Download PHP7.
-2. Copy `/site` to `htdocs` folder.
-3. Browse `localhost/site/index.php` to locally deploy AEDES Portal.
-
-
-
-
 ## What is Project AEDES?
 
 Advanced Early Dengue Prediction and Exploration Service (AEDES) aims to improve public health response against dengue in the Philippines by predicting dengue cases from climate and digital data and pinpointing possible hotspots from satellite data.
@@ -44,47 +28,30 @@ By doing this we are addressing 2 key challenges for public health and local gov
 - Get ahead of the lagged delay of dengue reporting by using real-time information (e.g. climate, searches) to infer if dengue cases and deaths are about to spike.
 - Precisely anticipate areas that may be affected by dengue to prioritize health aid, supplies, and proactive fumigation to prevent the outbreaks.
 
-## Local Dependency Setup
+## Local Dependency Set up
+**Required**
+1. Install dependencies from requirements.txt
+2. Browse `/datasets/Consolidated_regions.xlsx` to read or update cases, deaths, google trends, weather, and region data.
+3. Run `denguemodel.py` under `/code` to produce the forecast data.
+4. Run `selectdata.py` under `/code` to read data from the SQLite Database.
+5. To export data, run `exporttocsv.py`.
 
-### Dependencies:
-
-[requirements.txt](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/81b50619-2017-44ca-b06a-7b314d517ba0/requirements.txt)
-
-- python 3.6
-- pip
-    - matplotlib==3.1.3
-    - numpy==1.19.5
-    - pandas==1.0.1
-    - scikit-learn==0.22.1
-    - scipy==1.4.1
-    - seaborn==0.10.0
-    - statsmodels==0.11.0
-- QGIS 3.6 or later
-    - SCP plugin
-
-## Local Repository Setup
+## Deploy AEDES Portal
+1. Download PHP7.
+2. Copy `/site` to `htdocs` folder.
+3. Browse `localhost/site/index.php` to locally deploy AEDES Portal.
 
 ## Documentation
 
----
-
-[Documentation Page](https://www.notion.so/Documentation-Page-75d19fad0cf14f7daf12911321acd7c6)
-
-[Explore User Documentation](https://www.notion.so/Explore-User-Documentation-e7f68f79151744babdb292c62c9e36f5) 
-
-[Explore Implementer Documentation](https://www.notion.so/Explore-Implementer-Documentation-554549536cb648cabc4d97dc8b384b85) 
-
-[Explore Updating Datasets](https://www.notion.so/Explore-Updating-Datasets-a68350a2a21043e39217b141838fca2e) 
+To better understand the process workflow of Project AEDES, please read our [Documentation Page](https://github.com/Cirrolytix/aedes_dpg/wiki).
 
 ## Browse by Topic
 
-[Objectives and Principles](https://www.notion.so/Objectives-and-Principles-7141313311104f3facb94de1c3c24267) 
+[Objectives and Principles](https://github.com/Cirrolytix/aedes_dpg/wiki/Objectives-and-Principles) 
 
-[Architecture Diagrams](https://www.notion.so/Architecture-Diagrams-64b5535acad74d69b703ed784a43ef4b) 
+[Architecture Diagrams](https://github.com/Cirrolytix/aedes_dpg/wiki/Architecture-Diagrams) 
 
-[Functional Documentation](https://www.notion.so/Functional-Documentation-6e26f547a2154368b8a3bf59779ac94e) 
-
-[Model Documentation](https://www.notion.so/Model-Documentation-2a81518fda0846fbba8598e65bc135a1)
+[Functional Documentation](https://github.com/Cirrolytix/aedes_dpg/wiki/Functional-Documentation) 
 
 
 # Awards
@@ -97,17 +64,20 @@ Project AEDES uses the following open licenses:
 
 [MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md)
 
-- Open AI Model
-
 [Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
-
-- Open Content
-- Open Data
 
 
 # About
 
-Project AEDES is in active development and continously maintained by Cirrolytix Research Services. 
+Project AEDES is in active development and continously maintained by Cirrolytix Research Services.  
+
+Team Members:
+- [Dominic Ligot](https://www.linkedin.com/in/docligot/), Chief Technology Officer
+- [Mark Toledo](https://www.linkedin.com/in/toledomark/), Solution Architect
+- [Claire Tayco](https://www.linkedin.com/in/claire-san-juan-tayco-81361828/), Head of Research and Analytics
+- [Rache Melendres](https://www.linkedin.com/in/rachemelendres/), Analytics Consultant
+- [Cricket Soong](https://www.linkedin.com/in/cricketeer/), Emerging Technologies Consultant
+
 We welcome collaborators. Contact us via email at support@aedesproject.org.
 
 ©️ 2019-2021, [Cirrolytix Research Services](https://www.cirrolytix.com/)
