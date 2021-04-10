@@ -62,8 +62,8 @@ Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019
 
 Project AEDES uses the following open licenses:
 
-[MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md)  
-[Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
+- [MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/MIT.md)  
+- [Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
 
 
 # About
