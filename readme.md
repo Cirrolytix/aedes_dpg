@@ -47,10 +47,8 @@ To better understand the process workflow of Project AEDES, please read our [Doc
 
 ## Browse by Topic
 
-[Objectives and Principles](https://github.com/Cirrolytix/aedes_dpg/wiki/Objectives-and-Principles) 
-
-[Architecture Diagrams](https://github.com/Cirrolytix/aedes_dpg/wiki/Architecture-Diagrams) 
-
+[Objectives and Principles](https://github.com/Cirrolytix/aedes_dpg/wiki/Objectives-and-Principles)   
+[Architecture Diagrams](https://github.com/Cirrolytix/aedes_dpg/wiki/Architecture-Diagrams)  
 [Functional Documentation](https://github.com/Cirrolytix/aedes_dpg/wiki/Functional-Documentation) 
 
 
