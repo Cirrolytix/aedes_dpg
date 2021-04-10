@@ -43,7 +43,7 @@ By doing this we are addressing 2 key challenges for public health and local gov
 
 ## Documentation
 
-To better understand the process workflow of Project AEDES, please read our [Documentation Page](https://github.com/Cirrolytix/aedes_dpg/wiki).
+To better understand the process workflow of Project AEDES, please read our [Documentation Wiki Page](https://github.com/Cirrolytix/aedes_dpg/wiki).
 
 ## Browse by Topic
 
