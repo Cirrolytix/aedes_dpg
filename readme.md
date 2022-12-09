@@ -47,25 +47,25 @@ To better understand the process workflow of Project AEDES, please read our [Doc
 
 ## Browse by Topic
 
-[Objectives and Principles](https://github.com/Cirrolytix/aedes_dpg/wiki/Objectives-and-Principles)   
-[Architecture Diagrams](https://github.com/Cirrolytix/aedes_dpg/wiki/Architecture-Diagrams)  
-[Functional Documentation](https://github.com/Cirrolytix/aedes_dpg/wiki/Functional-Documentation) 
+[Objectives and Principles](https://github.com/Cirrolytix/aedes_dpg/wiki/Objectives-and-Principles)
+[Architecture Diagrams](https://github.com/Cirrolytix/aedes_dpg/wiki/Architecture-Diagrams)
+[Functional Documentation](https://github.com/Cirrolytix/aedes_dpg/wiki/Functional-Documentation)
 
 
 ## Awards
-Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/aedes-project/project)  
+Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/aedes-project/project)
 2020 Earth Observation for the Sustainable Development Goals (GEO SDG) Award, [Group on Earth Observations](https://www.earthobservations.org/geo_blog_obs.php?id=472)
 
 ## Licenses
 
 Project AEDES uses the following open licenses:
 
-- [MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)  
+- [MIT License](https://github.com/Cirrolytix/aedes_dpg/blob/main/LICENSE)
 - [Creative Commons Attribution Share Alike 4.0 International](https://github.com/Cirrolytix/aedes_dpg/blob/main/CC%20BY-SA%204.0.md)
 
 ## About
 
-Project AEDES is in active development and continously maintained by Cirrolytix Research Services.  
+Project AEDES is in active development and continously maintained by Cirrolytix Research Services.
 
 Team Members:
 - [Dominic Ligot](https://www.linkedin.com/in/docligot/), Team Lead, CTO
@@ -77,3 +77,6 @@ Team Members:
 We welcome collaborators. Contact us via email at support@aedesproject.org.
 
 ©️ 2019-2023, [Cirrolytix Research Services](https://www.cirrolytix.com/)
+
+
+demo line err
