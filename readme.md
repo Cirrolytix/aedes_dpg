@@ -47,6 +47,7 @@ To better understand the process workflow of Project AEDES, please read our [Doc
 
 ## Browse by Topic
 
+[Project Charter] (https://github.com/Cirrolytix/aedes_dpg/blob/main/charter.md)
 [Objectives and Principles](https://github.com/Cirrolytix/aedes_dpg/wiki/Objectives-and-Principles)   
 [Architecture Diagrams](https://github.com/Cirrolytix/aedes_dpg/wiki/Architecture-Diagrams)  
 [Functional Documentation](https://github.com/Cirrolytix/aedes_dpg/wiki/Functional-Documentation) 
@@ -55,7 +56,7 @@ To better understand the process workflow of Project AEDES, please read our [Doc
 ## Awards
 Global Award for Best Use of Data, [2019 NASA Space Apps Challenge](https://2019.spaceappschallenge.org/challenges/living-our-world/smash-your-sdgs/teams/aedes-project/project)  
 2020 Earth Observation for the Sustainable Development Goals (GEO SDG) Award, [Group on Earth Observations](https://www.earthobservations.org/geo_blog_obs.php?id=472)
-Digital Public Good, [UNICEF Philippines, UNICEF Office of Global Innovation, and Digital Public Goods Alliance]
+Digital Public Good Status, [UNICEF Philippines, UNICEF Office of Global Innovation, and Digital Public Goods Alliance]
 (https://digitalpublicgoods.net/blog/unicef-philippines-announces-its-first-digital-public-good-pathfinding-pilot/)
 
 ## Licenses
@@ -72,11 +73,11 @@ Project AEDES is in active development and continously maintained by Cirrolytix 
 
 Team Members:
 - [Dominic Ligot](https://www.linkedin.com/in/docligot/), Chief Technology Officer
-- [Mark Toledo](https://www.linkedin.com/in/toledomark/), Solution Architect
+- [Emily Jo Vizmonte](https://www.linkedin.com/in/emily-jo-vizmonte-b7a09380/), Solution Architect
 - [Claire Tayco](https://www.linkedin.com/in/claire-san-juan-tayco-81361828/), Head of Research and Analytics
 - [Rache Melendres](https://www.linkedin.com/in/rachemelendres/), Analytics Consultant
 - [Cricket Soong](https://www.linkedin.com/in/cricketeer/), Emerging Technologies Consultant
 
 We welcome collaborators. Contact us via email at support@aedesproject.org.
 
-©️ 2019-2021, [Cirrolytix Research Services](https://www.cirrolytix.com/)
+©️ 2019-2023, [Cirrolytix Research Services](https://www.cirrolytix.com/)
